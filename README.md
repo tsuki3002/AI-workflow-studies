@@ -61,7 +61,7 @@
 - Anti-pattern documentation
 
 ### Verified Sources
-1. [LangChain Production Guidelines](https://python.langchain.com/docs/guides/production)
-2. [OpenAI API Reference](https://platform.openai.com/docs/api-reference)
-3. [LLM Security Best Practices](https://ai.google/responsibility/security-best-practices)
-4. [Conversation Memory Research Papers](https://arxiv.org/search/?query=conversation+memory)
+1. [LLM API: Full Guide](https://medium.com/@springs_apps/large-language-model-llm-api-full-guide-2024-02ec9b6948f0)
+2. [Mastering API Calls for LLMs: Best Practices & Key Considerations](https://medium.com/gen-ai-adventures/mastering-api-calls-for-llms-best-practices-key-considerations-56370eb0f818)
+3. [The Guide to Large Language Model APIs](https://www.blobr.io/post/large-language-model-api-guide)
+4. [OpenAI API Reference](https://platform.openai.com/docs/api-reference)
